@@ -189,7 +189,7 @@ int Replace_Object::Compare_Strings(Object &obj, long ConvertedObjects)
 
 void Replace_Object::Header()
 {
-	printf("\nReplace Objects (formely known as 'ArmATool') (c) PMC 2006-2011.\n\n");
+	printf("\nReplace Objects (formely known as 'ArmATool') (c) PMC 2006-2015.\n\n");
 };
 
 
